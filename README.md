@@ -25,4 +25,4 @@ An interactive web application that allows users to change the background color 
 
 ## Live Demo
 
-[View Live Project](https:/colorswitcher-three.vercel.app/)
+[View Live Project](colorswitcher-three.vercel.app/)
